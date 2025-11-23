@@ -1,4 +1,4 @@
-**This repo contains plast part of Football & Java project via src folder, and .Jar to run parts A+B via library folder**
+**This repo contains the last part of Football & Java project via src folder, and .Jar to run parts A+B via library folder**
 
 
 Overview
